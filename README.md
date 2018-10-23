@@ -1,3 +1,11 @@
+Group Members:
+
+Tamara Anne Fernandes
+
+Janhavi Karekar
+
+Khusboo Korani
+
 Step 1: 
 
 Create a python3 Jupyter Notebook using Anaconda
